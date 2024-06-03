@@ -1,5 +1,3 @@
-A palavra **limão** deve ser destacada.
-
 - 👋 OI Boas vindas ao meu perfil
 - 👀 Estou me desenvolvendo na lingua do JavaScripit 
 - ⚡ Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
